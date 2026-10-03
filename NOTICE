@@ -1,0 +1,28 @@
+Lianxian (联线理论)
+Copyright 2026 湖南联线智库信息科技有限公司
+Hunan Lianxian Think Tank Information Technology Co., Ltd.
+组织标识：NLINE 联线智库（github.com/nlinechina）
+
+This product includes the following two categories of content,
+licensed separately:
+
+1. Code (`src/`, `tests/`, `tools/`)
+   — Apache License 2.0 (see LICENSE)
+
+2. Documentation and specifications (`docs/`, theory and specification
+   markdown files)
+   — CC BY 4.0 (see LICENSE-DOCS)
+
+Under Apache License 2.0 §4d, this NOTICE file must be retained
+when redistributing the code.
+
+署名要求（Attribution）：
+使用、引用本理论时，请署名「联线理论（Lianxian）」并注明来源仓库
+https://github.com/nlinechina/lianxian
+
+商标（Trademarks）：
+「联线理论」「LIANXIAN」「NLINE」及相关标识为权利方标识。
+"Official Lianxian"、"Lianxian Certified"、"联线官方"、"联线认证"
+等身份性表述未经书面授权不得使用。详见 TRADEMARKS.md。
+
+联系（Contact）：i@nline.cn

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use Lianxian in your research, please cite it using this metadata."
+title: "Lianxian: A Pattern-Triggered Hierarchical Reduction Method for Financial Sequential Data"
+authors:
+  - family-names: Song
+    given-names: Shugang
+    email: i@nline.cn
+    website: "https://github.com/ssgcn"
+    affiliation: "Hunan Lianxian Think Tank Information Technology Co., Ltd. (NLINE)"
+version: 0.1.0-draft
+# date-released: 待首次不可变发布（Immutable Release）后回填
+# doi: 待 Zenodo 存档后回填
+repository-code: "https://github.com/nlinechina/lianxian"
+license: Apache-2.0
+keywords:
+  - technical analysis
+  - sequential data
+  - hierarchical reduction
+  - pattern recognition
+  - candlestick
+  - market structure
+abstract: >-
+  Lianxian is a deterministic, layered reduction method for financial
+  sequential data. Raw candlestick series are reduced through eight
+  one-way layers (L1-L8), each strictly consuming the output of the
+  previous layer, producing reproducible structural annotations for
+  segments, turns, patterns, and counting. The method replaces ambiguous
+  discretionary judgments (e.g., pullback vs. reversal) with executable
+  rules, enabling same-input-same-output verification.
