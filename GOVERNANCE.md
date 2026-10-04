@@ -10,7 +10,7 @@
 
 现阶段为**单人维护者模式**：
 
-- **Maintainer**：宋淑刚（[@ssgcn](https://github.com/ssgcn)，i@nline.cn）
+- **Maintainer**：宋淑刚（[@ssgcn](https://github.com/ssgcn)，songshugang@nlinechina.com）
 - **规范变更**（Specification）：由 Maintainer 审定后发布，变更理由公开记录
 - **代码变更**（Reference Implementation）：PR 审定后由 Maintainer 合并
 - 理论层变更须可溯源至理论文档原文；禁止无原文依据的桥接概念进入规范

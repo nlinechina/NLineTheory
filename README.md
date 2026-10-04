@@ -70,7 +70,7 @@ tests/                测试向量（机器可读）
 - **研究合作**：复现协议与数据接口见 `docs/research/`，或来信
 - **商业实施**：生产级实现、API、企业集成、认证兼容为商业授权范围；
   官方身份相关表述规范见 [TRADEMARKS.md](TRADEMARKS.md)
-- 联系：**i@nline.cn**
+- 联系：**songshugang@nlinechina.com**
 
 ## 许可
 

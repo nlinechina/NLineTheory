@@ -33,4 +33,4 @@
 
 ## 申请与核查
 
-商标授权、使用核查、许可申请：**i@nline.cn**
+商标授权、使用核查、许可申请：**songshugang@nlinechina.com**
