@@ -16,9 +16,9 @@
 2026-10-04    董事裁定：基础逻辑层完全公开；确立「公开层 / 会员层 /
               商业层」三层结构
 
-2026-10-05    品牌定名：英文国际名定为 NLine（简称）/ NLineTheory
-              （GitHub 仓库名）/ nlinetheory（Python 包名）；历史叫法
-              Lianxian 为史实，保留不改
+2026-10-05    品牌定名：英文国际名 NLineTheory（全称，GitHub 仓库名）；
+              理论名 NLine、商标简称 NLT；Python 包名 nlinetheory；
+              历史叫法 Lianxian 为史实，保留不改
 ```
 
 ## 说明
@@ -31,5 +31,6 @@
 - 本仓库公开的是**基础逻辑层**（理论叙述 + 规范 + 参考实现）；生产
   实现、进阶内容与内部数据永不公开。
 - **品牌沿革**：英文项目名曾用 Lianxian（拼音转写）。2026-10-05 经
-  董事拍板改为 NLine / NLineTheory（与组织标识 NLINE、官网域名
-  nlinechina.com 同源）；中文理论名「联线理论」不变。
+  董事拍板改为 NLineTheory（全称，GitHub 仓库名），理论名 NLine、
+  商标简称 NLT；联线智库组织标识 NLINE / nlinechina（简称 NLCHN）
+  与理论名相互独立；中文理论名「联线理论」不变。
