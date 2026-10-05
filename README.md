@@ -56,7 +56,7 @@ tests/                测试向量（机器可读）
 
 ```bibtex
 @misc{nlinetheory2026,
-  title  = {NLine: A Pattern-Triggered Hierarchical Reduction Method
+  title  = {NLineTheory: A Pattern-Triggered Hierarchical Reduction Method
             for Financial Sequential Data},
   author = {Song, Shugang},
   year   = {2026},

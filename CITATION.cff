@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use NLine in your research, please cite it using this metadata."
-title: "NLine: A Pattern-Triggered Hierarchical Reduction Method for Financial Sequential Data"
+message: "If you use NLineTheory in your research, please cite it using this metadata."
+title: "NLineTheory: A Pattern-Triggered Hierarchical Reduction Method for Financial Sequential Data"
 authors:
   - family-names: Song
     given-names: Shugang
@@ -21,7 +21,7 @@ keywords:
   - candlestick
   - market structure
 abstract: >-
-  NLine is a deterministic, layered reduction method for financial
+  NLineTheory is a deterministic, layered reduction method for financial
   sequential data. Raw candlestick series are reduced through eight
   one-way layers (L1-L8), each strictly consuming the output of the
   previous layer, producing reproducible structural annotations for

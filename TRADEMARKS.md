@@ -20,7 +20,7 @@
 ## 无需许可的使用（白名单）
 
 - **描述性/指称性使用**：
-  - `Based on NLine` / `Implements the NLine specification`
+  - `Based on NLineTheory` / `Implements the NLineTheory specification`
   - `基于联线理论规范` / `遵循联线理论 L1–L8 规范` / `联线理论 V88 规格的独立实现`
 - 学术引用、评论、新闻报道中指称本理论本身
 - 说明兼容性事实（须真实、可验证）
