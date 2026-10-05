@@ -3,7 +3,7 @@
 > **A pattern-triggered hierarchical reduction method for financial sequential data**
 > 面向序列数据的模式触发层次归约方法
 
-[官网 nlinechina.com](https://www.nlinechina.com) ｜ [NLINE 联线智库](https://github.com/nlinechina)
+[官网 nlinechina.com](https://www.nlinechina.com) ｜ [NLCHN 联线智库](https://github.com/nlinechina)
 
 ---
 

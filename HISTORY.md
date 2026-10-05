@@ -32,5 +32,5 @@
   实现、进阶内容与内部数据永不公开。
 - **品牌沿革**：英文项目名曾用 Lianxian（拼音转写）。2026-10-05 经
   董事拍板改为 NLineTheory（全称，GitHub 仓库名），商标简称 NLT；
-  联线智库组织标识 NLINE / nlinechina（简称 NLCHN）与理论名相互
+  联线智库组织标识 nlinechina（简称 NLCHN）与理论名相互
   独立；中文理论名「联线理论」不变。
