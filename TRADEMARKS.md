@@ -10,7 +10,7 @@
 | 联线理论 | 中文理论名称 | 2015 年起持续使用；文字作品登记 国作登字-2015-A-00247179 |
 | NLT | 英文理论简称 | NLineTheory 之简称，与中文「联线理论」并用 |
 | NLINETHEORY | 英文理论全称 | 仓库名 NLineTheory / Python 包名 nlinetheory |
-| NLCHN / nlinechina | 组织标识 | 联线智库：简称 NLCHN，组织域名 nlinechina |
+| NLineChina / nlinechina | 组织标识 | 联线智库英文全称 NLineChina（域名 nlinechina），缩写 NLCHN |
 
 **商标注册状态（2026-10-04 如实披露）**：均未完成注册。
 2017 年「联线理论」商标申请曾被驳回（驳回理由正在调取评估中，
