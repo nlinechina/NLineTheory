@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use Lianxian in your research, please cite it using this metadata."
-title: "Lianxian: A Pattern-Triggered Hierarchical Reduction Method for Financial Sequential Data"
+message: "If you use NLine in your research, please cite it using this metadata."
+title: "NLine: A Pattern-Triggered Hierarchical Reduction Method for Financial Sequential Data"
 authors:
   - family-names: Song
     given-names: Shugang
@@ -11,7 +11,7 @@ version: 0.1.0-draft
 publisher: "Hunan Lianxian Think Tank Information Technology Co., Ltd. (NLINE)"
 # date-released: 待首次不可变发布（Immutable Release）后回填
 # doi: 待 Zenodo 存档后回填
-repository-code: "https://github.com/nlinechina/lianxian"
+repository-code: "https://github.com/nlinechina/NLineTheory"
 license: Apache-2.0
 keywords:
   - technical analysis
@@ -21,7 +21,7 @@ keywords:
   - candlestick
   - market structure
 abstract: >-
-  Lianxian is a deterministic, layered reduction method for financial
+  NLine is a deterministic, layered reduction method for financial
   sequential data. Raw candlestick series are reduced through eight
   one-way layers (L1-L8), each strictly consuming the output of the
   previous layer, producing reproducible structural annotations for

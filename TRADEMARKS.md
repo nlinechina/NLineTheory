@@ -8,7 +8,8 @@
 | 标识 | 类型 | 状态 |
 |---|---|---|
 | 联线理论 | 中文理论名称 | 2015 年起持续使用；文字作品登记 国作登字-2015-A-00247179 |
-| LIANXIAN | 英文理论名称 | 与中文同名使用 |
+| NLINE | 英文理论简称 | 与中文「联线理论」并用 |
+| NLINETHEORY | 英文理论全称 | 仓库名 NLineTheory / Python 包名 nlinetheory |
 | NLINE / nlinechina | 组织标识 | 组织与品牌标识 |
 
 **商标注册状态（2026-10-04 如实披露）**：均未完成注册。
@@ -19,15 +20,15 @@
 ## 无需许可的使用（白名单）
 
 - **描述性/指称性使用**：
-  - `Based on Lianxian` / `Implements the Lianxian specification`
+  - `Based on NLine` / `Implements the NLine specification`
   - `基于联线理论规范` / `遵循联线理论 L1–L8 规范` / `联线理论 V88 规格的独立实现`
 - 学术引用、评论、新闻报道中指称本理论本身
 - 说明兼容性事实（须真实、可验证）
 
 ## 需书面许可的使用（受限清单）
 
-- `Official Lianxian` / `Lianxian Official` / `联线官方`
-- `Lianxian Certified` / `联线认证` / `联线理论认证实现` 等认证性表述
+- `Official NLine` / `NLine Official` / `联线官方`
+- `NLine Certified` / `联线认证` / `联线理论认证实现` 等认证性表述
 - 任何暗示官方背书、官方认证、官方合作关系的产品名、课程名、机构名
 - 将上述标识用于同类竞争性分析产品的显著位置
 

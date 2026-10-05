@@ -1,4 +1,4 @@
-# Lianxian（联线理论）
+# NLine（联线理论）
 
 > **A pattern-triggered hierarchical reduction method for financial sequential data**
 > 面向序列数据的模式触发层次归约方法
@@ -9,7 +9,7 @@
 
 ## 一、这是什么
 
-联线理论（Lianxian Methodology）是一套针对 K 线序列的结构分析理论：
+联线理论（NLine）是一套针对 K 线序列的结构分析理论：
 将原始行情经**八层单向归约**，逐层抽出可确定、可复现的结构标注，对
 线段、转折、形态与计数给出严格定义。
 
@@ -55,12 +55,12 @@ tests/                测试向量（机器可读）
 见 [CITATION.cff](CITATION.cff)：
 
 ```bibtex
-@misc{lianxian2026,
-  title  = {Lianxian: A Pattern-Triggered Hierarchical Reduction Method
+@misc{nlinetheory2026,
+  title  = {NLine: A Pattern-Triggered Hierarchical Reduction Method
             for Financial Sequential Data},
   author = {Song, Shugang},
   year   = {2026},
-  url    = {https://github.com/nlinechina/lianxian}
+  url    = {https://github.com/nlinechina/NLineTheory}
 }
 ```
 
