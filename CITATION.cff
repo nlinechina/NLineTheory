@@ -6,9 +6,9 @@ authors:
     given-names: Shugang
     email: songshugang@nlinechina.com
     website: "https://github.com/ssgcn"
-    affiliation: "Hunan Lianxian Think Tank Information Technology Co., Ltd. (NLineChina)"
+    affiliation: "Hunan NLineChina Information Technology Co., Ltd."
 version: 0.1.0-draft
-publisher: "Hunan Lianxian Think Tank Information Technology Co., Ltd. (NLineChina)"
+publisher: "Hunan NLineChina Information Technology Co., Ltd."
 # date-released: 待首次不可变发布（Immutable Release）后回填
 # doi: 待 Zenodo 存档后回填
 repository-code: "https://github.com/nlinechina/NLineTheory"
