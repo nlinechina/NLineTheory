@@ -17,3 +17,4 @@
 | 编号 | 日期 | 位置（文件+章节） | 原文 | 更正 | 理由 |
 |---|---|---|---|---|---|
 | ERR-000 | — | — | （登记簿启用，暂无条目） | — | — |
+| ERR-001 | 2026-10-16 | `preprint/NLineTheory_Whitepaper_CN_20261010.pdf`（封面作者单位行；版权页"版本与版权"表·版权主体行） | Hunan Lianxian Think Tank Information Technology Co., Ltd. | Hunan NLineChina Information Technology Co., Ltd. | 废弃英文名残留（2026-10-13 决议：联线智库英文=NLineChina，弃"Lianxian Think Tank"），与 CITATION.cff、英文版预印本及 Zenodo 元数据口径对齐。正文零改动：36 页逐页文本比对，仅此两行不同。 |
